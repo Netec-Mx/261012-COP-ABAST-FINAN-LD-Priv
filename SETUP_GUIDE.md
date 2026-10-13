@@ -33,6 +33,7 @@ Guía consolidada de instalación y preparación del entorno.
 ### Capítulo 5
 
 - [Práctica: Evaluar riesgos de proveedor y condiciones contractuales con Copilot](Capitulo05/README.md#práctica-evaluar-riesgos-de-proveedor-y-condiciones-contractuales-con-copilot)
+- [Práctica: Evaluar riesgos de proveedor y condiciones contractuales con Copilot](Capitulo05/README.md#práctica-evaluar-riesgos-de-proveedor-y-condiciones-contractuales-con-copilot)
 
 ### Capítulo 6
 
