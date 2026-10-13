@@ -27,6 +27,7 @@ Programa práctico orientado a integrar IA generativa y Microsoft 365 Copilot en
 ### Capítulo 2
 
 - [Práctica: Investigar mercado, proveedores y modelos de contratación con Copilot](Capitulo02/README.md#práctica-investigar-mercado-proveedores-y-modelos-de-contratación-con-copilot)
+  - Descripción: Descripción breve, Regulación o fuente, Hecho vs. Inferencia.
   - Duración estimada: 105 min
   - [Ver capítulo completo](Capitulo02/README.md)
 
@@ -45,6 +46,9 @@ Programa práctico orientado a integrar IA generativa y Microsoft 365 Copilot en
 ### Capítulo 5
 
 - [Práctica: Evaluar riesgos de proveedor y condiciones contractuales con Copilot](Capitulo05/README.md#práctica-evaluar-riesgos-de-proveedor-y-condiciones-contractuales-con-copilot)
+  - Duración estimada: 105 min
+- [Práctica: Evaluar riesgos de proveedor y condiciones contractuales con Copilot](Capitulo05/README.md#práctica-evaluar-riesgos-de-proveedor-y-condiciones-contractuales-con-copilot)
+  - Descripción: "No identificado en el contrato"
   - Duración estimada: 105 min
   - [Ver capítulo completo](Capitulo05/README.md)
 
